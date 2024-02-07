@@ -1,0 +1,8 @@
+3 5 5
+// 3 colors (A, B, C)
+// 5x5 grid
+@aaaa
+bbbbb
+ccccc
+aaaa?
+#####

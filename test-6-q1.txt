@@ -1,0 +1,4 @@
+3 10 10
+// 3 colors (A, B, C)
+// 10x10 grid
+// Non input
