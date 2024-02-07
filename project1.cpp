@@ -1,4 +1,3 @@
-// Project Identifier: A8A3A33EF075ACEF9B08F5B9845569ECCB423725
 #include <array>
 #include <cstddef>
 #include <cstdlib>
